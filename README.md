@@ -18,7 +18,7 @@ Par Juan Linietsky et Ariel Manzur, leurs collègues et la communauté.
 
 Un peu comme Blender, je m’attends à ce qu’il avance lentement mais sûrement.
 Toujours derrière les meilleurs engines, mais toujours présent et stable sur le long terme.
-_(Vous pourrez constater ma rage quand je dois me reconnecter à mon compte Unity, puis attendre 10 minutes pour l’ouvrir et 20 pour charger les outils de Meta XR 😜)_
+*(Vous pourrez constater ma rage quand je dois me reconnecter à mon compte Unity, puis attendre 10 minutes pour l’ouvrir et 20 pour charger les outils de Meta XR 😜)*
 
 Mon choix de passer sur Godot était pour trois raisons.
 Premièrement, il tourne directement dans les casques XR !!!
