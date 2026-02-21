@@ -50,13 +50,13 @@ Notez que Godot, par sa nature, est très modifiable et possède une fonction sa
 
 **Quatre semaines pour apprendre:**
 
-Première semaine, nous allons faire un atelier que j’ai déjà fait avec des enfants :  
-jouer à des jeux avec du code Godot ;)  
-Pour se familiariser avec le langage.  
+**Première semaine**, nous allons faire un atelier que j’ai déjà fait avec des enfants : 
+- Faire la video de Brackeys
+- Jouer avec les UI et les Input
+- Apprendre les bases de la programmation
+- Jouer a 10 Seconds Ninja et Tower Fall avec du code Godot.
 
-Deuxième semaine, nous allons pratiquer les UI et faire les vidéos de Brackeys.  
-Pourquoi réinventer la roue, ses vidéos sont parfaites.  
-On va juste prendre le temps de les faire et de faire un petit rattrapage sur les bases de programmation non maîtrisées.  
+**Deuxième semaine**, nous allons creer un jeu pour le cine manett
 
 Troisième semaine, nous allons faire une application pour QA tester en XR avec Godot XR et son toolkit.  
 Et y ajouter deux ou trois objets 3D et animations de personnages pour revoir les bases que vous avez découvertes dans Unity3D.
