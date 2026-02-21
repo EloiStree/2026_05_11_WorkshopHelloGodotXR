@@ -113,7 +113,7 @@ Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
 
 * Avoir un jeu 3D passthrough « flottant » compatible Quest 3
 * Challenge : savoir orienter la flèche pour pratiquer les rotations en Godot
-* Challenge Bonus: Faire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes
+* Hors-sujet, challenge: Faire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes
 
 
 ### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
