@@ -50,6 +50,13 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 ## Quatre semaines pour apprendre
 
+### **Pre-Semaine Git**
+
+**But : apprendre à utiliser Git**
+
+Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
+
+
 ### **Première semaine**, nous allons créer un jeu 2D dans le Quest
 
 **But : faire nos premiers pas sur Godot**
