@@ -1,3 +1,5 @@
+> Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
+
 # Avertissement de départ
 
 ⚠️ Le but de la formation est de vous préparer à un emploi. Bien que ce cours vous apprenne à créer des jeux, l’objectif principal est de vous préparer à travailler pour un employeur XR dans l’industrie du temps réel. L’un n’empêche pas l’autre, mais l’accent est mis sur l’applicatif et non sur le jeu classique destiné aux magasins en ligne. Demande du/des centres de formation. ⚠️
@@ -17,95 +19,69 @@ Cela étant dit, allons apprendre à faire de la XR avec Godot._
 
 ----------------------
 
+# Introduction : Hello Godot XR
 
-# Workshop Hello Godot XR
- 
-Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
-  
-Nous avons la chance de pouvoir donner une première formation Godot 🪄 !!!  
+Nous avons la chance de pouvoir donner une première formation Godot 🪄 !!!
 
-Je ne vous dis pas à quel point, pour [Maude](https://www.linkedin.com/in/maudelhoir/) et [Bryan](https://www.linkedin.com/in/bartolonibryan/), c’est magique que ça arrive.  
-Je me suis mis à Godot l’année passée, je suis encore jeune dessus mais avec 14 ans de Unity3D derrière moi… On va s’en sortir 😋  
-  
-Godot est assez magique.  
-Super léger, il tourne littéralement sur votre téléphone.  
-Tellement léger qu’une partie de ce cours aura lieu dans le casque directement 😉.  
+Je ne vous dis pas à quel point, pour Maude et Bryan, c’est magique que ça arrive.
+Je me suis mis à Godot l’année passée. Je suis encore novice dessus, mais avec 14 ans de Unity3D derrière moi…
+On va s’en sortir 😋
 
-Il est open source et communautaire.  
-Créé par des Argentiniens pour leur pays à l’origine, il se veut utilisable sur des ordinateurs “patates” pour être accessible à tous.  
-Par Juan Linietsky et Ariel Manzur, leurs collègues et la communauté.   
+Godot est assez magique.
+Super léger, il tourne littéralement sur votre téléphone.
+Tellement léger qu’une partie de ce cours aura lieu directement dans le casque 😉.
 
-Un peu comme Blender, je m’attends à ce qu’il avance lentement mais sûrement.  
-Toujours derrière les meilleurs engines, mais toujours présent et stable sur le long terme.  
-*(Vous pourrez constater ma rage quand je dois me reconnecter à mon compte Unity, puis attendre 10 minutes pour l’ouvrir et 20 pour charger les outils de Meta XR 😜)*   
-  
-Mon choix de passer sur Godot était pour trois raisons.  
-Premièrement, il tourne directement dans les casques XR !!!  
-  
-Mais il est aussi multilingue. Et ça, pour enseigner la programmation, c’est une vraie folie.  
-Python, Rust, C#, Lua…  
+Il est open source et communautaire.
+Créé par des Argentins, il se veut utilisable sur des ordinateurs dits « patates » pour être accessible à tous.
+Par **Juan Linietsky** et **Ariel Manzur**, leurs collègues et la communauté.
 
-S’il y a une communauté pour adapter le langage au GDExtension,  
-vous pouvez coder dans votre langage préféré.  
-  
-Et troisièmement, je sais qu’à mes 70 ans, dans 34 ans, il existera toujours.  
-(Même si les game engines auront un autre goût dans 10 ans.)  
-(Je pense que la 3D triangulaire risque de devenir “old-school”, mais c’est justement ce que l’on veut avec Godot :  
-du shaderizer, du pixel art, du style, de la personnalisation. Donc ce n’est pas un problème ici.)  
+Mon choix de passer sur Godot s’est fait pour trois raisons :
 
-Du coup C# 😁 vous qui avez vu Unity3D… Non 😉  
-C# me manque, car il est beau et propre.  
+* Il tourne directement dans les casques XR !!!
+* Il est multilingue : Python, Rust, C#, Lua…
+  * Et ça, pour enseigner la programmation, c’est une vraie folie.
+* Je sais qu’à mes 70 ans, dans 34 ans, il existera toujours.
+* L’éditeur tourne sur : Linux, Mac, Raspberry Pi, Windows, Android, HoloLens, Magic Leap, SteamOS…
+* Grâce au GDScript, qui est interprété, vos jeux sont modables à souhait.
 
-Mais Godot a un langage proche de Python appelé GDScript.  
-L’avantage ?  
+## Quatre semaines pour apprendre
 
-Il est interprété.  
-Linux, Mac, Raspberry Pi, Windows, Android, HoloLens, Magic Leap, Steam OS…  
+**Première semaine**, nous allons faire un atelier que j’ai déjà réalisé avec des enfants :
 
-Le game engine et son langage sont les mêmes, et le code est interprétable partout sans logiciel additionnel ni compilateur compliqué à installer.  
-Si un jour vous essayez de faire tourner du Lua ou du C# dans votre projet sur Linux, vous comprendrez pourquoi GDScript est parfait 😅.  
-  
-Notez que Godot, par sa nature, est très modifiable et possède une fonction sandbox isolant le code additionnel de la communauté dans une boîte noire 🏖️  
+* Faire la vidéo de Brackeys sur un chevalier en 2D
+* Jouer avec les UI et les inputs
+* Jouer à *10 Seconds Ninja* et *TowerFall* avec du code Godot et C#
+* Apprendre les bases de la programmation en Godot comparées au C#
+* Bonus : jouer avec les contenus des artistes produits depuis le début de la formation via Git sur Godot.
 
-**Quatre semaines pour apprendre:**
+**Deuxième semaine**, nous allons créer un jeu pour le cinéma :
 
-**Première semaine**, nous allons faire un atelier que j’ai déjà fait avec des enfants : 
-- Faire la video de Brackeys
-- Jouer avec les UI et les Input
-- Apprendre les bases de la programmation
-- Jouer a 10 Seconds Ninja et Tower Fall avec du code Godot.
-- Bonus: Jouer avec les contenu des artistes produit depuis le debut de la formation par Git sur Godot.
+* Passer en revue tous les mots-clés réservés de Godot vs C#
+* Passer en revue tous les mots-clés importants des vidéos de Brackeys sur Godot
+* Faire un *TowerFall* sur Git en commun, à 12 élèves, avec les assets du Brackeys 2D
+* Faire un jeu complet avec 16 manettes NES
+* Bonus : jouer avec les contenus des artistes des deux dernières semaines via Git sur Godot.
 
-**Deuxième semaine**, nous allons creer un jeu pour le cinema.
-- Passer en revue tout les mots cles reserver de Godot vs C#
-- Passer en revue tout les mots cles importants des video de Brackeys sur Godot
-- Faire un Tower Fall sur git en commun avec les assets du Brackeys 2D.
-- Bonus: Jouer avec les contenu des artistes des deux derniers semaine par Git sur Godot.
+*Passer en revue* : barrer des mots dans une checklist et pratiquer un maximum d’entre eux.
 
-**Troisième semaine**, nous etudierons Godot XR et son toolkit par un outil industrie de QA testing.  
-- Comment faire une application XR PC
-- Comment faire une application XR dans le Quest directement
-- Comment utiliser GitHub sur un Quest
-- Comment attraper des cubes et ce deplacer dans un jeu VR
-- Explorations des ce que nous permets de faire Godot XR Toolkit comparer a VRTK, MRTK et XRTK de Unity
-- Finaliter: exploter des bugs de jeux video a l aide de baterrie de testes (macro) dans le casque.
-- Bonus: Jouer avec les contenu des artistes de cette semaine par Git sur Godot.
+**Troisième semaine**, nous étudierons Godot XR et son toolkit via un outil industriel de QA testing :
 
-**Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes.   
-_On peut pas tout etudier en 3 semaines, voyons donc ce qu il nous manque que l on aurait pas vu pour que le gamejam Godot avec les artistes ce passe bien._
-- Verifier les concepts de base: Texture, Shader, Materieux, Mesh, Triange, Animation 3D, State Machine, Light, VFX, Particules...
-- Savoir importer et ajuster: des modeles riggers, des textures et SVG
+* Comment faire une application XR PC
+* Comment faire une application XR directement dans le Quest
+* Comment utiliser GitHub sur un Quest
+* Comment attraper des cubes et se déplacer dans un jeu VR
+* Exploration de ce que nous permet de faire le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
+* Finalité : exploiter des bugs de jeux vidéo à l’aide de batteries de tests (macros) dans le casque
+* Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot.
 
-**Quatrième semaine**, fin : à vous de jouer. Petite game jam de groupe avec les artistes. 
-_"Show me what you got"_
+**Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes.
+*On ne peut pas tout étudier en 3 semaines, voyons donc ce qu’il nous manque et que nous n’aurions pas vu pour que la game jam Godot avec les artistes se passe bien.*
+
+* Vérifier les concepts de base : texture, shader, matériaux, mesh, triangle, animation 3D, state machine, light, VFX, particules…
+* Savoir importer et ajuster : des modèles riggés, des textures et des SVG
+* Voir si nous arrivons à intégrer dans Godot tous les assets que les artistes ont produits depuis le début de la formation XR sur le Quest.
+
+**Quatrième semaine**, fin : à vous de jouer. Petite game jam de groupe avec les artistes.
+*"Show me what you got"*
 
 
-  
-Je vous donnerais bien un cours très axé game engine de Godot en XR.  
-Mais étant moi-même encore jeune sur l’engine, je préfère cette année rester plutôt axé sur le code.  
-Car Godot est très simple à utiliser au niveau de son interface et il est très fourni en vidéos communautaires.  
-  
-Assez parlé.  
-C’est parti.  
-
-Commençons par voir comment Godot gère ses variables, classes, listes et dictionnaires à travers des jeux 😁🕹️🎮.   
