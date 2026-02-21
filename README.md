@@ -125,9 +125,13 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
   * [ ]  Afficher des menus 2D
   * [ ]  Composer une macro avec des objets 3D
 *  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
-
   *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
 * [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
+* [ ]  Bonus : écouter à des devices bluetooth
+  * [ ]  une manette Xbox et Playstation
+  * [ ]  un clavier et une souris
+  * [ ]  un scanner de bare code
+  * [ ]  utiliser les mains pour interagir
 
 **Validation de compétences :**
 
