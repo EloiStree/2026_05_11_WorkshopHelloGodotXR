@@ -126,7 +126,7 @@ Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
   
 **Points de passage :**
 
-* Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
+* [ ] Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
   * [ ] Comment bouger et se téléporter dans un niveau
   * [ ] Avec les deux manettes : bouger, tourner et zoomer dans un niveau
   * [ ] Attraper et déplacer des objets du niveau
