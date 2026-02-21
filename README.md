@@ -89,6 +89,8 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 
 **But : apprendre à faire un projet 3D**
 
+Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
+
 **Publications :**
 
 * [ ]  Comment faire une application XR sur PC
@@ -96,8 +98,8 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 
 **Points de passage :**
 
-* [ ]  Faire un archer dans le style de Hordes.io, jouable à la NES avec la vue caméra d’Arc Raiders
-  * [ ]  Savoir bouger et tourner des objets en 3D
+* [ ]  Faire un archer dans le style de Hordes.io, jouable à la NES
+  * [ ]  Savoir bouger et tourner des objets et characters en 3D
     * [ ]  Vector3, Quaternion, rotate et translate
 * [ ]  Changer le comportement de la caméra si le jeu est en XR ou en 3D classique
   * [ ]  Changer la skybox pour passer en mode passthrough en XR
