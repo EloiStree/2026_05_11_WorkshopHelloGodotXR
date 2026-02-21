@@ -94,7 +94,8 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
     * [ ]  Vector3, Quaternion, rotate et translate
 * [ ]  Changer le comportement de la caméra si le jeu est en XR ou en 3D classique
   * [ ]  Changer la skybox pour passer en mode passthrough en XR
-* [ ]  Savoir tirer des flèches en 3D en format NES
+* [ ]  Savoir tirer des flèches en 3D en format NES (voir TowerFall)
+  * [ ] Pratiquer les rotations
 * [ ]  Creer un level en file de fer depuis le Quest3 et l importer dans Godot
 * [ ]  Creer un level en graybox depuis le Quest3 et l importer dans Godot
 * [ ]  Rendre le jeu jouable avec du code (voir S2W)
