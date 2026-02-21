@@ -74,7 +74,7 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 * [ ]  Finir un niveau solo
 * [ ]  Exporter l’application 2D solo sur le Quest 3
 * [ ]  Écouter les inputs des manettes du Quest 3
-* [ ]  Rendre le jeu jouable avec du code (voir S2W)
+* [ ]  Bonus: Rendre le jeu jouable avec du code (voir S2W)
 * [ ]  Hors-sujet, challenge:  Faire un niveau à la TowerFall jouable avec 16 manettes NES
 
 **Validation de compétences :**
@@ -107,7 +107,7 @@ Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
   * [ ] Pratiquer les rotations
 * [ ]  Creer un level en file de fer depuis le Quest3 et l'importer dans Godot
 * [ ]  Creer un level en graybox depuis le Quest3 et l'importer dans Godot
-* [ ]  Rendre le jeu jouable avec du code (voir S2W)
+* [ ]  Bonus: Rendre le jeu jouable avec du code (voir S2W)
 
 **Validation de compétences :**
 
