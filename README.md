@@ -9,11 +9,10 @@
 * savoir travailler en équipe
 * **vouloir apprendre et se former toute sa vie**
 
-Exemples : applications de musée, science, data analytics, simulation de pilotage, éducation, entraînement, visites 3D…
+**Exemples** d'application XR: visite dans les musée, simulation de physique et chimie en science, data analytics, simulation de pilotage, éducation, entraînement, visites 3D… La liste est bien longue.
 
-Nous accélérons votre apprentissage grâce à la formation, mais c’est à vous d’apprendre activement pour votre propre carrière.
-
-Cela étant dit, allons apprendre à faire de la XR avec Godot.
+_Nous accélérons votre apprentissage grâce à la formation, mais c’est à vous d’apprendre activement pour votre propre carrière.  
+Cela étant dit, allons apprendre à faire de la XR avec Godot._
 
 
 ----------------------
