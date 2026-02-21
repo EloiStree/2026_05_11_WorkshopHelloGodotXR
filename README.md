@@ -78,7 +78,7 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 * Challenge C#: savoir finir son niveau avec du code C# et UDP
 
 
-### **Deuxième semaine**, de la 2D à la 3D XR :
+### **Deuxième semaine**, de la 2D à la 3D en XR
 
 **But : apprendre à faire un projet 3D**
 
@@ -106,7 +106,7 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 * Challenge Bonus: Faire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes
 
 
-### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing :
+### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
 
 **But : pratiquer le XR toolkit dans le casque**
 
@@ -133,7 +133,7 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 * Faire un logiciel de macro 3D XR pour jouer au jeu de la semaine précédente
 
 
-### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes.
+### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes
 
 **But : savoir travailler avec les artistes**
 
