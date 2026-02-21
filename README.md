@@ -132,7 +132,7 @@ Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
   * [ ] Attraper et déplacer des objets du niveau
   * [ ]  Interagir avec les objets du niveau
   * [ ]  Afficher des menus 2D
-  * [ ]  Composer une macro avec des objets 3D
+* [ ]  Composer une macro avec des objets 3D
 *  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
   *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
 * [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
