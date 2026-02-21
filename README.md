@@ -56,26 +56,26 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 **Publications :**
 
-* Comment faire une application 2D sur PC
-* Comment faire une application 2D directement dans le Quest
+* [ ]  Comment faire une application 2D sur PC
+* [ ]  Comment faire une application 2D directement dans le Quest
 
 **Points de passage :**
 
-* Faire la vidéo de Brackeys sur un chevalier en 2D
-* Jouer avec les UI et les inputs (en format NES)
-* Ajouter la capacité de tirer des flèches
-* Finir un niveau solo
-* Faire un niveau à la TowerFall jouable avec 16 manettes NES
-* Exporter l’application 2D solo sur le Quest 3
-* Écouter les inputs des manettes du Quest 3
-* Rendre le jeu jouable avec du code (voir S2W)
+* [ ]  Faire la vidéo de Brackeys sur un chevalier en 2D
+* [ ]  Jouer avec les UI et les inputs (en format NES)
+* [ ]  Ajouter la capacité de tirer des flèches
+* [ ]  Finir un niveau solo
+* [ ]  Exporter l’application 2D solo sur le Quest 3
+* [ ]  Écouter les inputs des manettes du Quest 3
+* [ ]  Rendre le jeu jouable avec du code (voir S2W)
+* [ ]  Bonus: Faire un niveau à la TowerFall jouable avec 16 manettes NES
 
 **Validation de compétences :**
 
 * Finir un niveau jouable en solitaire
-* Faire un niveau multijoueur à la TowerFall
 * Savoir utiliser Git avec une branche `main`
-* Challenge C# bonus : savoir finir son niveau avec du code C#
+* Bonus: Faire un niveau multijoueur à la TowerFall
+* Challenge C#: savoir finir son niveau avec du code C# et UDP
 
 
 ### **Deuxième semaine**, de la 2D à la 3D XR :
@@ -84,59 +84,49 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 **Publications :**
 
-* Comment faire une application XR sur PC
-* Comment faire une application XR directement dans le Quest
+* [ ]  Comment faire une application XR sur PC
+* [ ]  Comment faire une application XR directement dans le Quest
 
 **Points de passage :**
 
-* Faire un archer dans le style de Hordes.io, jouable à la NES avec la vue caméra d’Arc Raiders
-* Changer le comportement de la caméra si le jeu est en XR ou en 3D classique
-
-  * Changer la skybox pour passer en mode passthrough en XR
-* Savoir bouger et tourner des objets en 3D
-
-  * Vector3, Quaternion, rotate et translate
-* Savoir frapper à l’épée et tirer des flèches en 3D en format NES
-* Passer en revue tous les mots-clés réservés de Godot vs C#
-* Passer en revue tous les mots-clés importants des vidéos de Brackeys sur Godot
-* Rendre le jeu jouable avec du code (voir S2W)
-
-**Journée bonus :**
-
-* Faire le menu de Maude pour la XR et y placer les objets 3D des artistes
-
-**Passer en revue :**
-Barrer des mots dans une checklist et en pratiquer un maximum.
+* [ ]  Faire un archer dans le style de Hordes.io, jouable à la NES avec la vue caméra d’Arc Raiders
+  * [ ]  Savoir bouger et tourner des objets en 3D
+    * [ ]  Vector3, Quaternion, rotate et translate
+* [ ]  Changer le comportement de la caméra si le jeu est en XR ou en 3D classique
+  * [ ]  Changer la skybox pour passer en mode passthrough en XR
+* [ ]  Savoir tirer des flèches en 3D en format NES
+* [ ]  Creer un level en file de fer depuis le Quest3 et l importer dans Godot
+* [ ]  Creer un level en graybox depuis le Quest3 et l importer dans Godot
+* [ ]  Rendre le jeu jouable avec du code (voir S2W)
 
 **Validation de compétences :**
 
 * Avoir un jeu 3D passthrough « flottant » compatible Quest 3
 * Challenge : savoir orienter la flèche pour pratiquer les rotations en Godot
+* Challenge Bonus: Faire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes
 
 
-### **Troisième semaine**, nous étudierons Godot XR et son toolkit via un outil industriel de QA testing :
+### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing :
 
 **But : pratiquer le XR toolkit dans le casque**
 
 **Publications :**
 
-* Comment utiliser GitHub sur un Quest
-* Exporter depuis le Quest
-
+* [ ]  Comment utiliser GitHub dans le Quest
+  
 **Points de passage :**
 
 * Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
+  * [ ] Comment bouger et se téléporter dans un niveau
+  * [ ] Avec les deux manettes : bouger, tourner et zoomer dans un niveau
+  * [ ] Attraper et déplacer des objets du niveau
+  * [ ]  Interagir avec les objets du niveau
+  * [ ]  Afficher des menus 2D
+  * [ ]  Composer une macro avec des objets 3D
+*  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
 
-  * Comment bouger et se téléporter dans un niveau
-  * Avec les deux manettes : bouger, tourner et zoomer dans un niveau
-  * Attraper et déplacer des objets du niveau
-  * Interagir avec les objets du niveau
-  * Afficher des menus 2D
-  * Composer une macro avec des objets 3D
-* Tester votre macro sur le jeu jouable de la semaine précédente
-
-  * Savoir les sauvegarder et les exécuter en les touchant (activation)
-* Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
+  *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
+* [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
 
 **Validation de compétences :**
 
@@ -149,18 +139,16 @@ Barrer des mots dans une checklist et en pratiquer un maximum.
 
 On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manque pour que la game jam Godot avec les artistes se passe bien.
 
-* Vérifier les concepts de base : texture, shader, matériaux, mesh, triangle, animation 3D, state machine, lumière, VFX, particules…
-* Savoir importer et ajuster des modèles riggés, des textures et des SVG
-* Voir si nous arrivons à intégrer dans Godot tous les assets que les artistes ont produits depuis le début de la formation XR sur le Quest
+* [ ]  Vérifier les concepts de base : texture, shader, matériaux, mesh, triangle, animation 3D, state machine, lumière, VFX, particules…
+* [ ]  Savoir importer et ajuster des modèles riggés, des textures et des SVG
+* [ ]  Voir si nous arrivons à intégrer dans Godot tous les assets que les artistes ont produits depuis le début de la formation XR sur le Quest
 
 **Validation de compétences :**
 
 * Passer sur les checklists A4 des mots-clés à connaître pour être junior
-
   * Barrer une fois si vous vous souvenez
   * Barrer deux fois si vous pensez savoir réutiliser
   * Barrer trois fois si vous maîtrisez
-
     * Attention : je peux vous mettre à l’épreuve pour valider.
 
 
