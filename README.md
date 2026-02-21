@@ -47,51 +47,89 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 **Première semaine**, nous allons faire un atelier que j’ai déjà réalisé avec des enfants :
 
-_But: faire nos premiers pas sur Godot_
+*But : faire nos premiers pas sur Godot*
 
 * Faire la vidéo de Brackeys sur un chevalier en 2D
 * Jouer avec les UI et les inputs
 * Jouer à *10 Seconds Ninja* et *TowerFall* avec du code Godot et C#
-* Apprendre les bases de la programmation en Godot comparées au C#
-* Bonus : jouer avec les contenus des artistes produits depuis le début de la formation via Git sur Godot.
-* Exporter l'application 2D sur le Quest 3
+* Apprendre les bases de la programmation en Godot, comparées au C#
+* Bonus : jouer avec les contenus des artistes produits depuis le début de la formation via Git sur Godot
+* Exporter l’application 2D sur le Quest 3
+
+**Validation de compétences :**
+
+* Finir votre niveau du premier jour avec du code
+* Savoir utiliser Git avec une branche `main`
+
 
 **Deuxième semaine**, nous allons créer un jeu pour les salles de cinéma :
 
-_But: Se familiariser avec le game engine_  
+*But : se familiariser avec le game engine*
 
 * Passer en revue tous les mots-clés réservés de Godot vs C#
 * Passer en revue tous les mots-clés importants des vidéos de Brackeys sur Godot
 * Faire un *TowerFall* sur Git en commun, à 12 élèves, avec les assets du Brackeys 2D
 * Faire un jeu complet avec 16 manettes NES
-* Bonus : jouer avec les contenus des artistes des deux dernières semaines via Git sur Godot.
-* Tester des jeux XR: pour prendre des pauses.
+* Bonus : jouer avec les contenus des artistes des deux dernières semaines via Git sur Godot
+* Tester des jeux XR pour prendre des pauses
 
-*Passer en revue* : barrer des mots dans une checklist et pratiquer un maximum d’entre eux.
+*Passer en revue* : barrer des mots dans une checklist et en pratiquer un maximum.
+
+**Validation de compétences :**
+
+* Avoir un jeu complet : niveau, menu, sauvegarde des préférences, level design finalisé
+* Savoir utiliser Git à 12 avec des branches
+
 
 **Troisième semaine**, nous étudierons Godot XR et son toolkit via un outil industriel de QA testing :
 
-_But: Faire de la XR dans les casques_  
+*But : faire de la XR dans les casques*
 
-* Comment faire une application XR PC
+* Comment faire une application XR sur PC
 * Comment faire une application XR directement dans le Quest
 * Comment utiliser GitHub sur un Quest
 * Comment attraper des cubes et se déplacer dans un jeu VR
-* Exploration de ce que nous permet de faire le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
+* Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
 * Finalité : exploiter des bugs de jeux vidéo à l’aide de batteries de tests (macros) dans le casque
-* Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot.
+* Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
+
+**Validation de compétences :**
+
+* Savoir jouer à un jeu à la manette depuis le casque XR
+* Créer une macro de test avec des cubes que l’on déplace en XR
+
+  * Savoir les sauvegarder et les exécuter en les touchant (activation)
+
 
 **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes.
 
-_But: Savoir travaillez avec les artistes_  
+*But : savoir travailler avec les artistes*
 
-*On ne peut pas tout étudier en 3 semaines, voyons donc ce qu’il nous manque et que nous n’aurions pas vu pour que la game jam Godot avec les artistes se passe bien.*  
-* Vérifier les concepts de base : texture, shader, matériaux, mesh, triangle, animation 3D, state machine, light, VFX, particules…  
-* Savoir importer et ajuster : des modèles riggés, des textures et des SVG  
-* Voir si nous arrivons à intégrer dans Godot tous les assets que les artistes ont produits depuis le début de la formation XR sur le Quest.
+*On ne peut pas tout étudier en 3 semaines. Voyons donc ce qu’il nous manque pour que la game jam Godot avec les artistes se passe bien.*
+
+* Vérifier les concepts de base : texture, shader, matériaux, mesh, triangle, animation 3D, state machine, light, VFX, particules…
+* Savoir importer et ajuster des modèles riggés, des textures et des SVG
+* Voir si nous arrivons à intégrer dans Godot tous les assets que les artistes ont produits depuis le début de la formation XR sur le Quest
+
+**Validation de compétences :**
+
+* Passer sur toutes les checklists A4 données
+
+  * Barrer une fois si vous vous souvenez
+  * Barrer deux fois si vous pensez savoir réutiliser
+  * Barrer trois fois si vous maîtrisez
+
+    * Attention : je vais vous mettre à l’épreuve sur ces notions.
+
 
 **Quatrième semaine**, fin : à vous de jouer. Petite game jam de groupe avec les artistes.
-_But: Pratiquer et valdier votre apprentissage._   
-*"Show me what you got"*   
+
+*But : pratiquer et valider votre apprentissage.*
+
+*"Show me what you got"*
+
+**Validation de compétences :**
+
+* Finir un jeu en moins de 5 jours sur Git avec des artistes sur Godot.
 
 
