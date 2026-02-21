@@ -50,6 +50,14 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 ## Quatre semaines pour apprendre
 
+En très résumé :
+* Faire un jeu 2D de Brackeys dans le Quest 3
+* Faire le même jeu en 3D XR pour le Quest 3
+* Faire une partition de mouvements avec le XR Toolkit
+* Petite game jam avec les artistes
+  * Se préparer tout du long à pouvoir travailler avec les artistes
+
+
 ### **Pre-Semaine Git**
 
 **But : apprendre à utiliser Git**
