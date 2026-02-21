@@ -23,17 +23,17 @@ Cela étant dit, allons apprendre à faire de la XR avec Godot._
 
 Nous avons la chance de pouvoir donner une première formation Godot 🪄 !!!
 
-Je ne vous dis pas à quel point, pour [Maude](https://www.linkedin.com/in/maudelhoir/) et [Bryan](https://www.linkedin.com/in/bartolonibryan/), c’est magique que ça arrive.
-Je me suis mis à Godot l’année passée. Je suis encore novice dessus, mais avec 14 ans de Unity3D derrière moi…  
-On va s’en sortir 😋  
+Je ne vous dis pas à quel point, pour [Maude](https://www.linkedin.com/in/maudelhoir/) et [Bryan](https://www.linkedin.com/in/bartolonibryan/), c’est magique que ça arrive.   
+Je me suis mis à Godot l’année passée. Je suis encore novice dessus, mais avec 14 ans de Unity3D derrière moi…     
+On va s’en sortir 😋    
 
-Godot est assez magique.   
-Super léger, il tourne littéralement sur votre téléphone.   
-Tellement léger qu’une partie de ce cours aura lieu directement dans le casque 😉.   
+Godot est assez magique.     
+Super léger, il tourne littéralement sur votre téléphone.     
+Tellement léger qu’une partie de ce cours aura lieu directement dans le casque 😉.     
 
-Il est open source et communautaire.   
-Créé par des Argentins, il se veut utilisable sur des ordinateurs dits « patates » pour être accessible à tous.   
-Par **Juan Linietsky** et **Ariel Manzur**, leurs collègues et la communauté.  
+Il est open source et communautaire.     
+Créé par des Argentins, il se veut utilisable sur des ordinateurs dits « patates » pour être accessible à tous.     
+Par **Juan Linietsky** et **Ariel Manzur**, leurs collègues et la communauté.    
 
 Mon choix de passer sur Godot s’est fait pour ces raisons :  
 * Il tourne directement dans les casques XR !!!
