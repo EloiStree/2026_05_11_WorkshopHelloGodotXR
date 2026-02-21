@@ -30,6 +30,13 @@ On va s’en sortir 😋    Voici la version corrigée :
 À noter que cette formation suit une initiation à Unity et C# donnée par Arnaud Jopart et Cherif Younis,  
 et est suivie par une formation Unreal Engine avec Cherif Younis et Vincent Leroy.  
 
+**Dates :**
+
+* 6 avril au 8 mai : Unity XR
+* 11 mai au 5 juin : Godot XR
+* 8 juin au 3 juillet : Unreal Engine XR
+* 6 juillet au 14 août : Atelier de groupe
+
 Godot est assez magique.     
 Super léger, il tourne littéralement sur votre téléphone.     
 Tellement léger qu’une partie de ce cours aura lieu directement dans le casque 😉.    
