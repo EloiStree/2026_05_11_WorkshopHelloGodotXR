@@ -50,7 +50,7 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 ## Quatre semaines pour apprendre
 
-### **Première semaine**, nous allons créer un jeu pour les salles de cinéma :
+### **Première semaine**, nous allons créer un jeu 2D dans le Quest
 
 **But : faire nos premiers pas sur Godot**
 
