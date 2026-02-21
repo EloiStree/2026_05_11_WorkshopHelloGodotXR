@@ -75,14 +75,14 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 * [ ]  Exporter l’application 2D solo sur le Quest 3
 * [ ]  Écouter les inputs des manettes du Quest 3
 * [ ]  Rendre le jeu jouable avec du code (voir S2W)
-* [ ]  Bonus: Faire un niveau à la TowerFall jouable avec 16 manettes NES
+* [ ]  Hors-sujet, challenge:  Faire un niveau à la TowerFall jouable avec 16 manettes NES
 
 **Validation de compétences :**
 
 * Finir un niveau jouable en solitaire
 * Savoir utiliser Git avec une branche `main`
 * Bonus: Faire un niveau multijoueur à la TowerFall
-* Challenge C#: savoir finir son niveau avec du code C# et UDP
+* Hors-sujet, challenge C#:  savoir finir son niveau avec du code C# et UDP
 
 
 ### **Deuxième semaine**, de la 2D à la 3D en XR
