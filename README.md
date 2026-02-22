@@ -59,8 +59,8 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 
 En très résumé :
 * Faire un jeu 2D de Brackeys dans le Quest 3
-* Faire le même jeu en 3D XR pour le Quest 3
-* Faire une partition de mouvements avec le XR Toolkit
+* Placer des scenes Godot en AR avec des feuilles A4.
+* Créer des macros pour pratiquer le XR Toolkit
 * Petite game jam avec les artistes
   * Se préparer tout du long à pouvoir travailler avec les artistes
 
@@ -102,34 +102,49 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 
 ### **Deuxième semaine**, de la 2D à la 3D en XR
 
-**But : apprendre à faire un projet 3D**
-
-Voir pour le premier jour: https://github.com/EloiStree/HelloOneDayGodotXR/
+**But : charger une scène Godot dans la vraie vie via une feuille A4**
 
 **Publications :**
 
-* [ ]  Comment faire une application XR sur PC
-* [ ]  Comment faire une application XR directement dans le Quest
+* [ ] Comment faire une application XR sur PC
+* [ ] Comment faire une application XR directement sur le Quest
+
 
 **Points de passage :**
 
-* [ ]  Faire un archer dans le style de Hordes.io, jouable à la NES
-  * [ ]  Savoir bouger et tourner des objets et characters en 3D
-    * [ ]  Vector3, Quaternion, rotate et translate
-* [ ]  Changer le comportement de la caméra si le jeu est en XR ou en 3D classique
-  * [ ]  Changer la skybox pour passer en mode passthrough en XR
-* [ ]  Savoir tirer des flèches en 3D en format NES (voir TowerFall)
-  * [ ] Pratiquer les rotations
-* [ ]  Creer un level en file de fer depuis le Quest3 et l'importer dans Godot
-* [ ]  Creer un level en graybox depuis le Quest3 et l'importer dans Godot
-* [ ]  Bonus: Rendre le jeu jouable avec du code (voir S2W)
+### Exercice minimum :
 
-**Validation de compétences :**
+* [ ] C’est quoi un Vector3 ?
+* [ ] C’est quoi une direction ?
+* [ ] C’est quoi une rotation ?
+* [ ] C’est quoi, déjà, la trigonométrie ?
+* [ ] Accéder aux points des manettes
+* [ ] Savoir dessiner une ligne dans l’espace 3D
+* [ ] Relocaliser les calculs en `Vector.ZERO`
+* [ ] Charger une scène selon la distance entre deux points
+* [ ] Relocaliser la scène sur la feuille A4
 
-* Avoir un jeu 3D passthrough « flottant » compatible Quest 3
-* Challenge : savoir orienter la flèche pour pratiquer les rotations en Godot
-* Hors-sujet, challenge: Faire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes
+### Exercice secondaire :
 
+Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d)
+
+* [ ] Refaire l’outil de visualisation 3D de Maude
+* [ ] Charger l’outil sur la feuille
+* [ ] **Challenge Junior :**
+
+  * [ ] Charger les informations du modèle 3D depuis des ressources
+* [ ] **Challenge Medior :**
+
+  * [ ] Charger les informations depuis les fichiers : `.glb`, `README.md`, `.toml`
+  * [ ] Charger un `.fbx` avec son animation par défaut
+  * [ ] Ajouter un bouton 3D pour parcourir les animations du modèle
+
+**Validation des compétences :**
+
+* **Minimum :** Avoir une application Quest 3 qui charge une scène depuis une feuille A4 et A5.
+* **Medium :** Avoir une application Quest 3 qui charge des modèles 3D d’artistes.
+* **Senior :** Avoir une application Quest 3 qui charge des modèles 3D depuis un dossier sur le device.
+* **Hors-sujet, challenge :** Refaire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes.
 
 ### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
 
