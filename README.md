@@ -191,3 +191,21 @@ On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manq
 
 * Finir un jeu en moins de 5 jours sur Git avec des artistes, sur Godot.
 
+
+
+_________________
+
+
+# Un peu trop gaming.
+
+La formation est un peu trop gaming.
+Sur la semaine deux.
+
+Une alternative est que je recreer un tutorial sur la triangulation par les manettes, voir:
+- https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
+
+Ce qui ferait un bon cours sur le Vector3, Direction, Quaternion et rotation.
+
+
+
+
