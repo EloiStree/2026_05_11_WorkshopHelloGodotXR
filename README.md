@@ -1,3 +1,14 @@
+# Working on it:
+
+To Do: 
+- Godot XR Tools video and check list: https://github.com/EloiStree/HelloGodotXR/issues/25
+- How to use Git on Quest3 and Android
+- How to use Git an Quest 3 from a PC with Godot
+- How to relocate a scene based on two flats point (ground-wall)
+- How to rotate stuff.
+
+--------------------
+
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
 
 # Avertissement de départ
