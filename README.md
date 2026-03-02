@@ -6,7 +6,7 @@ To Do:
 - How to use Git an Quest 3 from a PC with Godot
 - How to relocate a scene based on two flats point (ground-wall)
 - How to rotate stuff.
-
+- Ajouter au Keybword : https://github.com/EloiStree/HelloGodotEngineKeyword/issues/265
 --------------------
 
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
