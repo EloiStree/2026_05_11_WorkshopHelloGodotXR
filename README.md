@@ -7,6 +7,10 @@ To Do:
 - How to relocate a scene based on two flats point (ground-wall)
 - How to rotate stuff.
 - Ajouter au Keybword : https://github.com/EloiStree/HelloGodotEngineKeyword/issues/265
+
+- Vous avez fait un projet Godot sur votre telephone android ?
+  - Comment le sauver avec Git: https://youtu.be/Sy2_I87Rws0
+
 --------------------
 
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
