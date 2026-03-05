@@ -8,8 +8,12 @@ To Do:
 - How to rotate stuff.
 - Ajouter au Keybword : https://github.com/EloiStree/HelloGodotEngineKeyword/issues/265
 
+
+Video"
 - Vous avez fait un projet Godot sur votre telephone android ?
   - Comment le sauver avec Git: https://youtu.be/Sy2_I87Rws0
+= Vous avez recu un tablette android ?
+  - Comment utilsier godot et git via termux : https://youtu.be/4-LGN76QHdE
 
 --------------------
 
