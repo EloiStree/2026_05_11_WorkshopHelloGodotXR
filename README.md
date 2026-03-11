@@ -1,4 +1,6 @@
-**"Montrer de l'amour pour l'engine"** GDC, Cherif
+**"Montrer de l'amour pour l'engine."** GDC, Cherif
+
+
 
 ---------------------
 
@@ -19,6 +21,10 @@ Video"
   - Comment le sauver avec Git: https://youtu.be/Sy2_I87Rws0
 - Vous avez recu un tablette android ?
   - Comment utilsier godot et git via termux : https://youtu.be/4-LGN76QHdE
+
+About AI use:
+- You need to be the fail safe of it:
+  - https://youtu.be/dbMXi9q78Tk?t=843
 
 --------------------
 
