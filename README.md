@@ -26,6 +26,10 @@ About AI use:
 - You need to be the fail safe of it:
   - https://youtu.be/dbMXi9q78Tk?t=843
 
+Frenc tutorial on Godot Francophone : 
+- https://discord.gg/hYdR3EzSjE
+
+
 --------------------
 
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
