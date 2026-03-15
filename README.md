@@ -84,6 +84,8 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 
 **But : faire nos premiers pas sur Godot**
 
+**📝 [Workshop->](https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/tree/main/Week1)**
+
 **Publications :**
 
 * [ ]  Comment faire une application 2D sur PC
@@ -110,6 +112,8 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 ### **Deuxième semaine**, pratiquez Godot XR
 
 **But : pratiquer le XR toolkit dans le casque**
+
+**📝 [Workshop->](https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/tree/main/Week2)**
 
 **Publications :**
 
@@ -156,6 +160,8 @@ Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](
 
 **But : charger une scène Godot dans la vraie vie via une feuille A4**
 
+**📝 [Workshop->](https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/tree/main/Week3)**
+
 **A4 Loader, Solution:**
 Git Unity: https://github.com/EloiStree/2025_06_05_upm_two_points_quad_loader
 Git Godot: https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader
@@ -192,6 +198,8 @@ Git Godot: https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader
 ### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes
 
 **But : savoir travailler avec les artistes**
+
+**📝 [Workshop->](https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/tree/main/Week4)**
 
 On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manque pour que la game jam Godot avec les artistes se passe bien.
 
