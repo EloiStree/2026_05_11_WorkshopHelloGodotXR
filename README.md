@@ -1,36 +1,6 @@
 **"Montrer de l'amour pour l'engine."** GDC, Cherif
 
-
-
 ---------------------
-
-
-# Working on it:
-
-To Do: 
-- Godot XR Tools video and check list: https://github.com/EloiStree/HelloGodotXR/issues/25
-- How to use Git on Quest3 and Android
-- How to use Git an Quest 3 from a PC with Godot
-- How to relocate a scene based on two flats point (ground-wall)
-- How to rotate stuff.
-- Ajouter au Keybword : https://github.com/EloiStree/HelloGodotEngineKeyword/issues/265
-
-
-Video"
-- Vous avez fait un projet Godot sur votre telephone android ?
-  - Comment le sauver avec Git: https://youtu.be/Sy2_I87Rws0
-- Vous avez recu un tablette android ?
-  - Comment utilsier godot et git via termux : https://youtu.be/4-LGN76QHdE
-
-About AI use:
-- You need to be the fail safe of it:
-  - https://youtu.be/dbMXi9q78Tk?t=843
-
-Frenc tutorial on Godot Francophone : 
-- https://discord.gg/hYdR3EzSjE
-
-
---------------------
 
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
 
@@ -118,30 +88,28 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 **Points de passage :**
 
 * [ ]  Faire la vidéo de Brackeys sur un chevalier en 2D
-* [ ]  Jouer avec les UI et les inputs (en format NES)
-* [ ]  Ajouter la capacité de tirer des flèches
-* [ ]  Finir un niveau solo
-* [ ]  Exporter l’application 2D solo sur le Quest 3
-* [ ]  Écouter les inputs des manettes du Quest 3
-* [ ]  Bonus: Rendre le jeu jouable avec du code (voir S2W)
-* [ ]  Hors-sujet, challenge:  Faire un niveau à la TowerFall jouable avec 16 manettes NES
+* [ ]  Faire un niveau a la Tower Fall jouable en solo
+* [ ]  Passer du PC au Quest et du Quest au PC avec Termux et Git
+* [ ]  Sauver et documenter dans les commits l avancement de votre projet
 
 **Validation de compétences :**
 
 * Finir un niveau jouable en solitaire
 * Savoir utiliser Git avec une branche `main`
-* Bonus: Faire un niveau multijoueur à la TowerFall
+* Svoir utilier Termux Fossify et Git sur Android.
 * Hors-sujet, challenge C#:  savoir finir son niveau avec du code C# et UDP
 
 
 
-### **Deuxième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
+### **Deuxième semaine**, pratiquez Godot XR
 
 **But : pratiquer le XR toolkit dans le casque**
 
 **Publications :**
 
-* [ ]  Comment utiliser GitHub dans le Quest
+* [ ]  Une application utilisant Godot XR
+  * [ ] Bonus: Voir le travail des artistes en XR 
+  * [ ] Bonus: Pour controller un manette Xbox
   
 **Points de passage :**
 
@@ -149,34 +117,45 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
   * [ ] Comment bouger et se téléporter dans un niveau
   * [ ] Avec les deux manettes : bouger, tourner et zoomer dans un niveau
   * [ ] Attraper et déplacer des objets du niveau
-  * [ ]  Interagir avec les objets du niveau
-  * [ ]  Afficher des menus 2D
-* [ ]  Composer une macro avec des objets 3D
-*  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
-  *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
-* [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
+  * [ ] Snapper des objets du niveau
+* [ ] Apprendre a ecouter les controlleurs du Quest
+* [ ] Creer une application de portfolio est assets graphique produit par les artistes
 * [ ]  Bonus : écouter à des devices bluetooth
   * [ ]  une manette Xbox et Playstation
   * [ ]  un clavier et une souris
   * [ ]  un scanner de bare code
   * [ ]  utiliser les mains pour interagir
+* [ ] Bonus: Jouer a des jeux video depuis le Quest 3 avec XOMI et S2W
 
 **Validation de compétences :**
 
-* Faire un logiciel de macro 3D XR pour jouer au jeu de la semaine précédente
-### **Troisième semaine**, de la 2D à la 3D en XR
+* Savez vous faire une application avec Godot XR qui permet d interagir avec des objets de la scene.
+
+### Challenge :
+
+Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d)
+
+* [ ] Refaire l’outil de visualisation 3D de Maude
+* [ ] **Challenge Junior :**
+  * [ ] Charger les modèles depuis des ressources
+* [ ] **Challenge Medior :**
+  * [ ] Charger les modèles depuis des fichiers exterieux 
+  
+### **Troisième semaine**, relocalisation sur un feuille A4
+
 
 **But : charger une scène Godot dans la vraie vie via une feuille A4**
 
+**A4 Loader, Solution:**
+Git Unity: https://github.com/EloiStree/2025_06_05_upm_two_points_quad_loader
+Git Godot: https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader
+
+
 **Publications :**
 
-* [ ] Comment faire une application XR sur PC
-* [ ] Comment faire une application XR directement sur le Quest
-
+* [ ] Une application qui charge un niveau sur le sol ou un mur a partir d'une distance entre deux points.
 
 **Points de passage :**
-
-### Exercice minimum :
 
 * [ ] C’est quoi un Vector3 ?
 * [ ] C’est quoi une direction ?
@@ -187,28 +166,14 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 * [ ] Relocaliser les calculs en `Vector.ZERO`
 * [ ] Charger une scène selon la distance entre deux points
 * [ ] Relocaliser la scène sur la feuille A4
-
-### Exercice secondaire :
-
-Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d)
-
-* [ ] Refaire l’outil de visualisation 3D de Maude
-* [ ] Charger l’outil sur la feuille
-* [ ] **Challenge Junior :**
-
-  * [ ] Charger les informations du modèle 3D depuis des ressources
-* [ ] **Challenge Medior :**
-
-  * [ ] Charger les informations depuis les fichiers : `.glb`, `README.md`, `.toml`
-  * [ ] Charger un `.fbx` avec son animation par défaut
-  * [ ] Ajouter un bouton 3D pour parcourir les animations du modèle
+* [ ] Relocaliser la scène selon la distance des points
+* [ ] Relocaliser la scène selon que la ligne est horizontal ou vertical
 
 **Validation des compétences :**
 
-* **Minimum :** Avoir une application Quest 3 qui charge une scène depuis une feuille A4 et A5.
-* **Medium :** Avoir une application Quest 3 qui charge des modèles 3D d’artistes.
-* **Senior :** Avoir une application Quest 3 qui charge des modèles 3D depuis un dossier sur le device.
-* **Hors-sujet, challenge :** Refaire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes.
+* **Minimum :** Savoir charger des niveaux sur une feuille A4 horizontal
+* **Medior :** Savoir charger des niveaux sur un poster vertical
+* **Senior :** Fusionner l'addons de la semaine deux et trois dans un projet.
 
 
 ### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes
@@ -241,19 +206,6 @@ On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manq
 * Finir un jeu en moins de 5 jours sur Git avec des artistes, sur Godot.
 
 
-
-_________________
-
-
-# Un peu trop gaming.
-
-La formation est un peu trop gaming.
-Sur la semaine deux.
-
-Une alternative est que je recreer un tutorial sur la triangulation par les manettes, voir:
-- https://github.com/EloiStree/2025_06_05_TwoPointsQuadLoader
-
-Ce qui ferait un bon cours sur le Vector3, Direction, Quaternion et rotation.
 
 
 -----------------------------
