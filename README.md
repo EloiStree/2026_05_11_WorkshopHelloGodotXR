@@ -24,11 +24,10 @@ Cela étant dit, allons apprendre à faire de la XR avec Godot._
 Nous avons la chance de pouvoir donner une première formation Godot 🪄 !!!
 
 Je ne vous dis pas à quel point, pour [Maude](https://www.linkedin.com/in/maudelhoir/) et [Bryan](https://www.linkedin.com/in/bartolonibryan/), c’est magique que ça arrive.   
-Je me suis mis à Godot l’année passée. Je suis encore novice dessus, mais avec 14 ans de Unity3D derrière moi…     
-On va s’en sortir 😋    Voici la version corrigée :
+Je me suis mis à Godot l’année passée.    
+Je suis encore novice dessus, mais avec 14 ans de Unity3D derrière moi…       
+On va s’en sortir 😋    
 
-À noter que cette formation suit une initiation à Unity et C# donnée par Arnaud Jopart et Cherif Younis,  
-et est suivie par une formation Unreal Engine avec Cherif Younis et Vincent Leroy.  
 
 **Dates :**
 
