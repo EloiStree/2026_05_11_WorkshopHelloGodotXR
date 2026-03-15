@@ -68,13 +68,16 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 - [ ] Placer des scenes Godot en AR avec des feuilles A4.
 - [ ] Gamejam avec les artistes
  
+============
 
-### **Pre-Semaine Git**
+### **Pre-Atelier: Git**
 
 **But : apprendre à utiliser Git**
 
 Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 
+
+============
 
 ### **Première semaine**, nous allons créer un jeu 2D dans le Quest
 
@@ -99,6 +102,7 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 * Svoir utilier Termux Fossify et Git sur Android.
 * Hors-sujet, challenge C#:  savoir finir son niveau avec du code C# et UDP
 
+============
 
 
 ### **Deuxième semaine**, pratiquez Godot XR
@@ -141,7 +145,9 @@ Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](
   * [ ] Charger les modèles depuis des ressources
 * [ ] **Challenge Medior :**
   * [ ] Charger les modèles depuis des fichiers exterieux 
-  
+
+============
+
 ### **Troisième semaine**, relocalisation sur un feuille A4
 
 
@@ -176,6 +182,8 @@ Git Godot: https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader
 * **Medior :** Savoir charger des niveaux sur un poster vertical
 * **Senior :** Fusionner l'addons de la semaine deux et trois dans un projet.
 
+============
+
 
 ### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes
 
@@ -195,6 +203,8 @@ On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manq
   * Barrer trois fois si vous maîtrisez
     * Attention : je peux vous mettre à l’épreuve pour valider.
 
+============
+
 
 ### **Quatrième semaine**, fin : à vous de jouer. Petite game jam de groupe avec les artistes.
 
@@ -212,6 +222,6 @@ On ne peut pas tout étudier en trois semaines. Voyons donc ce qu’il nous manq
 -----------------------------
 
 Notez que un des meilleurs moyens d apprendre des fois... C est d aider les autres.:
-<img width="850" height="498" alt="Image" src="https://github.com/user-attachments/assets/527d209d-3924-448a-bc8c-3113c6bb4840" />
-<img width="1848" height="1099" alt="Image" src="https://github.com/user-attachments/assets/613cdf85-b9d4-4dbd-bd9b-e0c82ca074ab" />
-<img width="1594" height="1106" alt="Image" src="https://github.com/user-attachments/assets/86cd0641-2c77-4aa9-b988-301d59f81dcf" />
+<img width="850" height="498" alt="Image" src="https://github.com/user-attachments/assets/527d209d-3924-448a-bc8c-3113c6bb4840" />   
+<img width="1848" height="1099" alt="Image" src="https://github.com/user-attachments/assets/613cdf85-b9d4-4dbd-bd9b-e0c82ca074ab" />  
+<img width="1594" height="1106" alt="Image" src="https://github.com/user-attachments/assets/86cd0641-2c77-4aa9-b988-301d59f81dcf" />  
