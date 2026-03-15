@@ -256,5 +256,9 @@ Une alternative est que je recreer un tutorial sur la triangulation par les mane
 Ce qui ferait un bon cours sur le Vector3, Direction, Quaternion et rotation.
 
 
+-----------------------------
 
-
+Notez que un des meilleurs moyens d apprendre des fois... C est d aider les autres.:
+<img width="850" height="498" alt="Image" src="https://github.com/user-attachments/assets/527d209d-3924-448a-bc8c-3113c6bb4840" />
+<img width="1848" height="1099" alt="Image" src="https://github.com/user-attachments/assets/613cdf85-b9d4-4dbd-bd9b-e0c82ca074ab" />
+<img width="1594" height="1106" alt="Image" src="https://github.com/user-attachments/assets/86cd0641-2c77-4aa9-b988-301d59f81dcf" />
