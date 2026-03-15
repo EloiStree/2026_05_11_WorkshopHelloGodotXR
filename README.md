@@ -4,10 +4,6 @@
 
 > Apprenons à faire une application XR avec Godot 😁 et Git 🍻  
 
-# Avertissement de départ
-
-⚠️ Le but de la formation est de vous préparer à un emploi. Bien que ce cours vous apprenne à créer des jeux, l’objectif principal est de vous préparer à travailler pour un employeur XR dans l’industrie du temps réel. L’un n’empêche pas l’autre, mais l’accent est mis sur l’applicatif et non sur le jeu classique destiné aux magasins en ligne. Demande du/des centres de formation. ⚠️
-
 **Les qualités nécessaires pour un développeur :**
 * être autodidacte
 * être rigoureux dans ses projets
@@ -15,15 +11,15 @@
 * savoir travailler en équipe
 * **vouloir apprendre et se former toute sa vie**
 
-**Exemples d’applications XR :** visites dans les musées, simulations de physique et de chimie en sciences, analyse de données, simulation de pilotage, éducation, entraînement, visites 3D, construction, architecture, outils pour chirurgiens, rééducation musculaire… La liste est bien longue.
+**Exemples d’applications XR :** visites dans les musées, simulations de physique et de chimie en sciences, analyse de données, simulation de pilotage, éducation, entraînement, visites 3D, construction, architecture, outils pour chirurgiens, rééducation musculaire… La liste est bien longue.   
 
-_Nous accélérons votre apprentissage grâce à la formation, mais c’est à vous d’apprendre activement pour votre propre carrière.  
-Cela étant dit, allons apprendre à faire de la XR avec Godot._
+_Nous accélérons votre apprentissage grâce à la formation, mais c’est à vous d’apprendre activement pour votre propre carrière.    
+Cela étant dit, allons apprendre à faire de la XR avec Godot._   
 
 
 ----------------------
 
-# Introduction : Hello Godot XR
+# Un formation Godot ?
 
 Nous avons la chance de pouvoir donner une première formation Godot 🪄 !!!
 
@@ -40,6 +36,12 @@ et est suivie par une formation Unreal Engine avec Cherif Younis et Vincent Lero
 * 11 mai au 5 juin : Godot XR
 * 8 juin au 3 juillet : Unreal Engine XR
 * 6 juillet au 14 août : Atelier de groupe
+
+
+------------------
+
+
+# Pourquoi Godot ?
 
 Godot est assez magique.     
 Super léger, il tourne littéralement sur votre téléphone.     
@@ -58,16 +60,15 @@ Mon choix de passer sur Godot s’est fait pour ces raisons :
 * L’éditeur tourne sur : Linux, Mac, Raspberry Pi, Windows, Android, HoloLens, Magic Leap, SteamOS…
 * Grâce au GDScript, qui est interprété, vos jeux sont modables à souhait.
 
+------------------
 
 ## Quatre semaines pour apprendre
 
-En très résumé :
-* Faire un jeu 2D de Brackeys dans le Quest 3
-* Placer des scenes Godot en AR avec des feuilles A4.
-* Créer des macros pour pratiquer le XR Toolkit
-* Petite game jam avec les artistes
-  * Se préparer tout du long à pouvoir travailler avec les artistes
-
+- [ ] Faire un jeu 2D de Brackeys dans le Quest 3
+- [ ] Apprendre a utiliser Godot XR Tools
+- [ ] Placer des scenes Godot en AR avec des feuilles A4.
+- [ ] Gamejam avec les artistes
+ 
 
 ### **Pre-Semaine Git**
 
@@ -134,6 +135,7 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 ### Challenge :
 
 Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d)
+([P](https://github.com/EloiStree/p_2026_03_15_godot_gaming_300_3pod/releases/tag/2026_03_15))
 
 * [ ] Refaire l’outil de visualisation 3D de Maude
 * [ ] **Challenge Junior :**
