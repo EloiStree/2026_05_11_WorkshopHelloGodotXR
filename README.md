@@ -134,7 +134,37 @@ Voir: https://github.com/EloiStree/2026_04_07_WorkshopArtsAndGit/tree/main
 * Hors-sujet, challenge C#:  savoir finir son niveau avec du code C# et UDP
 
 
-### **Deuxième semaine**, de la 2D à la 3D en XR
+
+### **Deuxième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
+
+**But : pratiquer le XR toolkit dans le casque**
+
+**Publications :**
+
+* [ ]  Comment utiliser GitHub dans le Quest
+  
+**Points de passage :**
+
+* [ ] Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
+  * [ ] Comment bouger et se téléporter dans un niveau
+  * [ ] Avec les deux manettes : bouger, tourner et zoomer dans un niveau
+  * [ ] Attraper et déplacer des objets du niveau
+  * [ ]  Interagir avec les objets du niveau
+  * [ ]  Afficher des menus 2D
+* [ ]  Composer une macro avec des objets 3D
+*  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
+  *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
+* [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
+* [ ]  Bonus : écouter à des devices bluetooth
+  * [ ]  une manette Xbox et Playstation
+  * [ ]  un clavier et une souris
+  * [ ]  un scanner de bare code
+  * [ ]  utiliser les mains pour interagir
+
+**Validation de compétences :**
+
+* Faire un logiciel de macro 3D XR pour jouer au jeu de la semaine précédente
+### **Troisième semaine**, de la 2D à la 3D en XR
 
 **But : charger une scène Godot dans la vraie vie via une feuille A4**
 
@@ -179,36 +209,6 @@ Voir : [https://300-gaming-space.itch.io/initiation-au-mtier-de-game-artist-3d](
 * **Medium :** Avoir une application Quest 3 qui charge des modèles 3D d’artistes.
 * **Senior :** Avoir une application Quest 3 qui charge des modèles 3D depuis un dossier sur le device.
 * **Hors-sujet, challenge :** Refaire le menu Gaming Space 300 de Maude pour la XR et y placer les objets 3D des artistes.
-
-### **Troisième semaine**, pratiquez Godot XR et son toolkit via un outil industriel de QA testing 
-
-**But : pratiquer le XR toolkit dans le casque**
-
-**Publications :**
-
-* [ ]  Comment utiliser GitHub dans le Quest
-  
-**Points de passage :**
-
-* [ ] Explorer ce que permet le Godot XR Toolkit comparé à VRTK, MRTK et XRTK de Unity
-  * [ ] Comment bouger et se téléporter dans un niveau
-  * [ ] Avec les deux manettes : bouger, tourner et zoomer dans un niveau
-  * [ ] Attraper et déplacer des objets du niveau
-  * [ ]  Interagir avec les objets du niveau
-  * [ ]  Afficher des menus 2D
-* [ ]  Composer une macro avec des objets 3D
-*  [ ] Tester votre macro sur le jeu jouable de la semaine précédente
-  *  [ ] Savoir les sauvegarder et les exécuter en les touchant (activation)
-* [ ]  Bonus : jouer avec les contenus des artistes de cette semaine via Git sur Godot
-* [ ]  Bonus : écouter à des devices bluetooth
-  * [ ]  une manette Xbox et Playstation
-  * [ ]  un clavier et une souris
-  * [ ]  un scanner de bare code
-  * [ ]  utiliser les mains pour interagir
-
-**Validation de compétences :**
-
-* Faire un logiciel de macro 3D XR pour jouer au jeu de la semaine précédente
 
 
 ### **Quatrième semaine**, début : explorons ce qu’il nous manquerait pour la game jam avec les artistes
